@@ -1,10 +1,5 @@
-<h1 align="center">California Housing Census Project</h1>
+<h1 align="center"> Housing Census Project</h1>
 
-<p align="center">Author: Jose Pena</p>
-<p align="center">Github: <a href="https://github.com/JoseJuan98">JoseJuan98</a></p>
-<br>
-
----
 
 ## Aim
 
@@ -12,7 +7,7 @@ The aim of this project is to showcase my analytical, technical, and communicati
 I aim to demonstrate my ability to produce a successful and resilient Machine Learning system, from the exploratory and 
 modeling phase focused on the exploration, statistical analysis, and good practices of Machine Learning, to the engineering 
 phase to containerize all dependencies of the system and serve it in a production environment while giving concise and informative 
-insights in a business-manner for non-technical stakeholders.
+insights in a business manner for non-technical stakeholders.
 
 To differentiate between phases and follow good practices, I am following the Gitflow methodology. I develop new changes in feature branches and create pull requests to the branches develop and master to test the changes in a CI/CD pipeline and simulate the approval of the code/product owner (the CI/CD flow is not ready yet).
 
